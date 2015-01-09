@@ -7,7 +7,7 @@ Enter file contents here<!DOCTYPE html>
 <body><p>Special deals:</p>
 <hr/>
 
-<br/>Item 1 &nbsp; &nbsp;<strong><s>     500</s> 300 </strong>&euro;
-<br/>Item 2 &nbsp; &nbsp;<strong><s>     800</s> 700 </strong>&euro; 
+<p>Item 1 &nbsp; &nbsp;<strong><s>     500</s> 300 </strong>&euro;
+<br/>Item 2 &nbsp; &nbsp;<strong><s>     800</s> 700 </strong>&euro; </p>
 </body>
 </html>
